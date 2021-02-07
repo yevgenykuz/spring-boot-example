@@ -1,4 +1,4 @@
-package me.yevgeny.controller;
+package com.yevgenyk.training.controller;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

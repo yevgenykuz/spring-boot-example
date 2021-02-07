@@ -1,4 +1,4 @@
-package me.yevgeny.controller;
+package com.yevgenyk.training.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
